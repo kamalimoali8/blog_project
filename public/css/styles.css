@@ -1,0 +1,19 @@
+/* تنظیمات کلی برای راست‌چین */
+body {
+    font-family: 'Vazir', 'Tahoma', sans-serif; /* فونت فارسی */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    direction: rtl; /* راست‌چین کردن محتوا */
+    text-align: right; /* متن را به راست تراز می‌کند */
+}
+
+/* استایل‌های هدر */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center; /* تراز مرکز برای هدر */
+}
+
+/* تنظیمات ناوب
