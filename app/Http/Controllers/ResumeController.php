@@ -6,9 +6,8 @@ use Illuminate\Http\Request;
 
 class ResumeController extends Controller
 {
-    public function index()
+    public function resume()
     {
-        // می‌توانید اطلاعات رزومه خود مثل تحصیلات، تجربیات و مهارت‌ها را به ویو ارسال کنید
-        return view('resume');
+        return view('resume'); // فایل ویو resume.blade.php باید در resources/views باشد
     }
 }

@@ -14,7 +14,7 @@
 
     <nav>
         <ul>
-            <li><a href="{{ route('home') }}">خانه</a></li>
+            <li><a href="{{ route('home') }}">خانه</a></li> 
             <li><a href="{{ route('resume') }}">رزومه</a></li>
             <li><a href="{{ route('contact') }}">تماس</a></li>
         </ul>

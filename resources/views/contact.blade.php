@@ -29,7 +29,12 @@
             <button type="submit">ارسال پیام</button>
         </form>
     </section>
-
     <nav>
-        <ul>
-            <li><
+    <ul>
+        <li><a href="/">خانه</a></li>
+        <li><a href="{{ route('resume') }}">رزومه</a></li>
+       
+      
+       
+    </ul>
+</nav>
